@@ -3,3 +3,4 @@ This is my graduation project (demo version), Currently I am working on releasin
 I used Atmega32 for Salve nodes, Arduino Mega for Master node (Gateway).
 
 See the schematic for slave node to understand the code.
+My Video Project on Youtube: https://www.youtube.com/watch?v=8GfOqNnarck&t
