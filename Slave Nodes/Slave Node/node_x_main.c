@@ -12,7 +12,6 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "xbee.h"
-//#include "LCD.h"
 #include "DHT11.h"
 #include "util/delay.h"
 #include "UART.h"
